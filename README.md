@@ -1,6 +1,6 @@
 # Next.js + MDX Blog starter template
 
-Made as part of the tutorial from:
+Made as part of this tutorial: <https://brandonkocur.vercel.app/blogs/nextjs-mdx-blog>
 
 ## Getting Started
 
