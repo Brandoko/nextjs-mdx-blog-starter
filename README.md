@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js + MDX Blog starter template
+
+Made as part of the tutorial from:
 
 ## Getting Started
 
